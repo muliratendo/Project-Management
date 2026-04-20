@@ -18,3 +18,5 @@ services:
         value: false
       - key: DB_CONNECTION
         value: pgsql
+      - key: DB_PORT
+        value: 5432
